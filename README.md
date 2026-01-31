@@ -10,3 +10,4 @@ Estação de trabalho SRE & Offensive Security.
 Este repositório contém meus scripts de automação e configurações de laboratório.
 - **Backend Multi-Stack:** .NET 8, Perl 5, PHP 8.3.
 - **Backend Multi-Stack:** .NET 8, Perl 5, PHP 8.3.
+- **Backend Multi-Stack:** .NET 8, Perl 5, PHP 8.3.
