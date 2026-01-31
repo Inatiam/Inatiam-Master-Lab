@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  pentest-env:
+    image: kalilinux/kali-rolling
+    volumes:
+      - ./scripts:/scripts
+    tty: true
